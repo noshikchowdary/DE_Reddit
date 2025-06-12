@@ -1,0 +1,36 @@
+# Database Configuration
+[database]
+# PostgreSQL connection details
+database_host = localhost
+database_name = airflow_reddit
+database_port = 5432
+database_username = postgres
+database_password = your_secure_password
+
+# File System Configuration
+[file_paths]
+# Local paths for data processing
+input_path = /opt/airflow/data/input
+output_path = /opt/airflow/data/output
+
+# API Configuration
+[api_keys]
+# Reddit API credentials - Get these from https://www.reddit.com/prefs/apps
+reddit_secret_key = your_reddit_secret_key
+reddit_client_id = your_reddit_client_id
+
+# AWS Configuration
+[aws]
+# AWS credentials and configuration
+aws_access_key_id = your_aws_access_key
+aws_secret_access_key = your_aws_secret_key
+aws_session_token = your_aws_session_token  # Optional: Only needed for temporary credentials
+aws_region = your_aws_region  # e.g., us-east-1
+aws_bucket_name = your_s3_bucket_name
+
+# ETL Configuration
+[etl_settings]
+# Pipeline configuration
+batch_size = 100  # Number of records to process in each batch
+error_handling = abort  # Options: abort, continue, retry
+log_level = info  # Options: debug, info, warning, error

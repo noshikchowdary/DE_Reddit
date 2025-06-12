@@ -54,7 +54,7 @@ The pipeline follows a modern data engineering architecture:
 1. Clone the repository:
    ```bash
    git clone https://github.com/noshikchowdary/DE_Reddit.git
-   cd reddit-data-engineering
+   cd DE_Reddit
    ```
 
 2. Set up your environment:

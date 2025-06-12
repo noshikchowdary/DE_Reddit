@@ -1,5 +1,11 @@
 # Reddit Data Engineering Pipeline 🚀
 
+[![CI/CD Pipeline](https://github.com/noshikchowdary/DE_Reddit/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/noshikchowdary/DE_Reddit/actions/workflows/ci-cd.yml)
+[![Code Coverage](https://codecov.io/gh/noshikchowdary/DE_Reddit/branch/main/graph/badge.svg)](https://codecov.io/gh/noshikchowdary/DE_Reddit)
+[![Docker Image](https://img.shields.io/docker/pulls/noshik/reddit-data-pipeline.svg)](https://hub.docker.com/r/noshik/reddit-data-pipeline)
+[![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 A modern, scalable data pipeline that demonstrates advanced data engineering practices. This project showcases my expertise in building production-grade data pipelines using industry-standard tools and best practices.
 
 ## 🌟 Key Features
@@ -47,7 +53,7 @@ The pipeline follows a modern data engineering architecture:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/noshikchowdary/DE_Reddit.git
    cd reddit-data-engineering
    ```
 
@@ -120,7 +126,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Connect
 
-- GitHub: [Your GitHub Profile]
+- GitHub: [noshikchowdary](https://github.com/noshikchowdary)
 - LinkedIn: [Your LinkedIn Profile]
 - Portfolio: [Your Portfolio Website]
 
@@ -137,3 +143,64 @@ For detailed documentation, please refer to:
 - [Architecture Documentation](docs/architecture/ARCHITECTURE.md)
 - [API Documentation](docs/api/API.md)
 - [Deployment Guide](docs/deployment/DEPLOYMENT.md)
+
+## 🎯 Project Showcase
+
+### Key Technical Achievements
+
+1. **Scalable Architecture**
+   - Distributed processing with Celery
+   - Horizontal scaling capabilities
+   - Efficient resource utilization
+
+2. **Production-Ready Features**
+   - Comprehensive error handling
+   - Automated monitoring and alerting
+   - Data quality checks
+   - Backup and recovery procedures
+
+3. **DevOps Best Practices**
+   - CI/CD pipeline with GitHub Actions
+   - Automated testing and code quality checks
+   - Docker containerization
+   - Infrastructure as Code
+
+4. **Security Implementation**
+   - Secure credential management
+   - Regular security scanning
+   - Access control and authentication
+   - Data encryption
+
+### Business Impact
+
+1. **Data Quality**
+   - Automated data validation
+   - Real-time monitoring
+   - Data lineage tracking
+
+2. **Cost Optimization**
+   - Efficient resource utilization
+   - Automated scaling
+   - Cost-effective storage solutions
+
+3. **Maintainability**
+   - Well-documented code
+   - Modular architecture
+   - Easy deployment process
+
+### Future Enhancements
+
+1. **Real-time Processing**
+   - Stream processing capabilities
+   - Real-time analytics
+   - Event-driven architecture
+
+2. **Advanced Analytics**
+   - Machine learning integration
+   - Predictive analytics
+   - Custom visualization dashboards
+
+3. **Enhanced Monitoring**
+   - Advanced metrics collection
+   - Custom alerting rules
+   - Performance optimization

@@ -127,8 +127,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🔗 Connect
 
 - GitHub: [noshikchowdary](https://github.com/noshikchowdary)
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: [https://www.linkedin.com/in/noshik-chowdary/]
+
 
 ## 🙏 Acknowledgments
 

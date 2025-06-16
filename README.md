@@ -17,7 +17,7 @@ A modern, scalable data pipeline that demonstrates advanced data engineering pra
 - **Containerized**: Easy deployment using Docker and docker-compose
 - **CI/CD Ready**: Includes GitHub Actions workflow for automated testing and deployment
 
-## 🏗️ Architecture
+## Architecture
 
 The pipeline follows a modern data engineering architecture:
 

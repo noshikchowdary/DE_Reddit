@@ -1,4 +1,4 @@
-# Reddit Data Engineering Pipeline 🚀
+# Reddit Data Engineering Pipeline 
 
 [![CI/CD Pipeline](https://github.com/noshikchowdary/DE_Reddit/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/noshikchowdary/DE_Reddit/actions/workflows/ci-cd.yml)
 [![Code Coverage](https://codecov.io/gh/noshikchowdary/DE_Reddit/branch/main/graph/badge.svg)](https://codecov.io/gh/noshikchowdary/DE_Reddit)

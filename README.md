@@ -8,7 +8,7 @@
 
 A modern, scalable data pipeline that demonstrates advanced data engineering practices. This project showcases my expertise in building production-grade data pipelines using industry-standard tools and best practices.
 
-## 🌟 Key Features
+## 🌟 Key Feature
 
 - **Modern Tech Stack**: Apache Airflow, Celery, PostgreSQL, AWS Services
 - **Production-Ready**: Includes monitoring, logging, and error handling

@@ -21,13 +21,13 @@ A modern, scalable data pipeline that demonstrates advanced data engineering pra
 
 Organizations and researchers need to analyze Reddit discussions to track trends, sentiment, and emerging topics. This pipeline automates the extraction, transformation, and loading (ETL) of Reddit data, enabling advanced analytics and reporting for business intelligence and research.
 
-## 📊 What Data is Extracted?
+## What Data is Extracted?
 
 - **Submissions & Comments** from specified subreddits
 - **Metadata:** author, timestamp, score, etc.
 - **Purpose:** Enables sentiment analysis, trend detection, and community insights
 
-## 📝 Sample Output
+##  Sample Output
 
 - Parquet/CSV files in AWS S3
 - Transformed tables in your data warehouse (via dbt)

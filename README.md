@@ -8,7 +8,7 @@
 
 A modern, scalable data pipeline that demonstrates advanced data engineering practices. This project showcases my expertise in building production-grade data pipelines using industry-standard tools and best practices.
 
-## 🌟 Key Features
+##  Key Features
 
 - **Modern Tech Stack**: Apache Airflow, Celery, PostgreSQL, AWS Services
 - **Production-Ready**: Includes monitoring, logging, and error handling
@@ -17,7 +17,7 @@ A modern, scalable data pipeline that demonstrates advanced data engineering pra
 - **Containerized**: Easy deployment using Docker and docker-compose
 - **CI/CD Ready**: Includes GitHub Actions workflow for automated testing and deployment
 
-## 🚀 Business Use Case
+##  Business Use Case
 
 Organizations and researchers need to analyze Reddit discussions to track trends, sentiment, and emerging topics. This pipeline automates the extraction, transformation, and loading (ETL) of Reddit data, enabling advanced analytics and reporting for business intelligence and research.
 
@@ -61,7 +61,7 @@ The pipeline follows a modern data engineering architecture:
 4. **Data Warehouse**: Amazon Redshift for analytics and reporting
 5. **Metadata Management**: PostgreSQL for pipeline metadata and state management
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Orchestration**: Apache Airflow, Celery
 - **Storage**: PostgreSQL, Amazon S3
@@ -73,14 +73,14 @@ The pipeline follows a modern data engineering architecture:
 - **Testing**: pytest, flake8, black, isort
 - **Security**: Bandit, Safety
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - AWS Account with appropriate IAM permissions
 - Reddit API credentials
 - Docker and Docker Compose
 - Python 3.9 or higher
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. Clone the repository:
    ```bash
@@ -111,7 +111,7 @@ The pipeline follows a modern data engineering architecture:
    open http://localhost:8080
    ```
 
-## 📊 Pipeline Components
+## Pipeline Components
 
 - **Data Extraction**: Custom Reddit API client
 - **Data Processing**: ETL jobs in AWS Glue
@@ -119,7 +119,7 @@ The pipeline follows a modern data engineering architecture:
 - **Monitoring**: Airflow DAG monitoring and alerting
 - **Documentation**: Comprehensive inline documentation
 
-## 🧪 Testing
+## Testing
 
 Run the test suite:
 ```bash
@@ -133,48 +133,40 @@ black . --check
 isort . --check-only
 ```
 
-## 🔒 Security
+## Security
 
 - Environment variables for sensitive data
 - Secure credential management
 - Regular security scanning
 - Docker security best practices
 
-## 📈 Monitoring
+##  Monitoring
 
 - Airflow task monitoring
 - Custom metrics collection
 - Error tracking and alerting
 - Performance monitoring
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🔗 Connect
+## Connect
 
 - GitHub: [noshikchowdary](https://github.com/noshikchowdary)
 - LinkedIn: [https://www.linkedin.com/in/noshik-chowdary/]
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Apache Airflow community
 - AWS documentation
 - Reddit API documentation
 - Open source community
 
-## 📚 Documentation
+## Documentation
 
 For detailed documentation, please refer to:
 - [Architecture Documentation](docs/architecture/ARCHITECTURE.md)
 - [API Documentation](docs/api/API.md)
 - [Deployment Guide](docs/deployment/DEPLOYMENT.md)
 
-## 🎯 Project Showcase
+## Project Showcase
 
 ### Key Technical Achievements
 
